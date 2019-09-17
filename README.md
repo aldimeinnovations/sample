@@ -1,2 +1,2 @@
 # sample
-some
+some mode
